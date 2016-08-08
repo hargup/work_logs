@@ -1,7 +1,13 @@
 work_logs
 =========
 
-This is a semi private dump of work logs.
-I was lazy in writing them so I have them for only a few days.
-You can read them if you want to but none of them was created
-to be read by anyone other than me.
+This is a semi private dump of work logs. I've not been very consistent with
+writing the logs regularly or maintaining them at one place. I've not been very
+careful with spelling and grammar either and you might not know the context of
+what I'm talking about, so read at your own risk!
+
+## See Also
+
+* https://github.com/hargup/intern_diary_2016
+
+* https://github.com/hargup/intern-dairy-2015
